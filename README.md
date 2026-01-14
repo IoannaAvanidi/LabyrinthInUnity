@@ -34,9 +34,6 @@ The player controls **Treasure Bob**, a sphere-shaped character navigating throu
 * **Physics Configuration**: Gravity is disabled for the player character to ensure movement remains on a fixed horizontal plane.
 
 ## 📋 Execution Instructions
-1.  Open the project in **Unity Hub** (Version: [Insert your Unity version here, e.g., 2022.3 LTS]).
+1.  Open the project in **Unity Hub** (Version: 6).
 2.  Ensure all textures (`bob.jpg`, `floor.jpg`, `death.jpg`, etc.) are in the `Assets/Textures` folder.
 3.  Press **Play** in the Unity Editor or run the provided `.exe` build.
-
----
-*This project was implemented for the Department of Computer Science & Engineering
